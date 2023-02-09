@@ -1,0 +1,47 @@
+.script {
+    background-color: rgb(136, 196, 196);
+}
+.satu {
+    border: 1px solid;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 10px blue;
+    background-color: aquamarine;
+    padding-left: 5px;
+    width: 150px;
+}
+
+.dua {
+    border: 1px solid;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 10px blue;
+    background-color: aquamarine;
+    padding-left: 5px;
+    width: 150px;
+}
+
+.tiga {
+    border: 1px solid;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 10px blue;
+    background-color: aquamarine;
+    padding-left: 5px;
+    width: 150px;
+}
+
+.empat {
+    border: 1px solid;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 10px blue;
+    background-color: aquamarine;
+    padding-left: 5px;
+    width: 150px;
+}
+
+.lima {
+    border: 1px solid;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 10px blue;
+    background-color: aquamarine;
+    padding-left: 5px;
+    width: 150px;
+}
